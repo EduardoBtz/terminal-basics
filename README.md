@@ -11,7 +11,7 @@ Within this README you will find a list of basic and useful commands that work i
 >[Text files manipulation](#text-files-manipulation)\
 >[Command exploration and help](#command-exploration-and-help)\
 >[Classes inside Wildcards](#classes-inside-wildcards)\
->[I/O redirects and control operators](#i/o-redirects-and-control-operators)
+>[I/O redirects and control operators](#io-redirects-and-control-operators)\
 >[Permissions and users](#permissions-and-users)\
 >[Environment variables](#environment-variables)\
 >[Search commands](#search-commands)\
